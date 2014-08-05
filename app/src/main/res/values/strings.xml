@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CDs/Tapes</string>
+    <string name="CDs_Tapes">CDs/Tapes</string>
+    <string name="action_settings">Settings</string>
+    <string name="CDs_Button">CDs</string>
+    <string name="Tapes_Button">Tapes</string>
+
+</resources>
